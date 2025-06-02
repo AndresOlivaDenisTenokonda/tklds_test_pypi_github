@@ -3,8 +3,8 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tklds"
-version = "0.0.7"
+name = " tklds-test-pypi-github"
+version = "0.0.9"
 
 dependencies = [
     "numpy>=1.23.5",
