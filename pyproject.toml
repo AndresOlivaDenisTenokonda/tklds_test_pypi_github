@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tklds_test_pypi_github"
-version = "0.0.7"
+version = "0.0.8"
 
 dependencies = [
     "numpy>=1.23.5",
