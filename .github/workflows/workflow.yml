@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
 
     environment:
-      name: tkenv
+      name: testpypi
       url: https://test.pypi.org/p/tklds_test_pypi_github
 
     permissions:
